@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Test CLI",
   "directories": {
-    "bin": "bin"
+    "bin": "./bin"
   },
   "repository": {
     "type": "git",
