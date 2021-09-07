@@ -13,48 +13,6 @@ Everything is new!
 - Another problem ([#2](https://github.com/taylortom/cli/issues/2))
 - Something broke ([#1](https://github.com/taylortom/cli/issues/1))
 
-## [1.0.0](https://github.com/taylortom/cli/releases/tag/untagged-f96e3d728cb40b7a395c) - 1970/01/01
-
-This will be the first release.
-
-Everything is new!
-
-## [1.0.0](https://github.com/taylortom/cli/releases/tag/untagged-f96e3d728cb40b7a395c) - 1970/01/01
-
-This will be the first release.
-
-Everything is new!
-
-## [1.0.0](https://github.com/taylortom/cli/releases/tag/untagged-0459d5a002c3db419361) - 1970/01/01
-
-This will be the first release.
-
-Everything is new!
-
-## [1.0.0](https://github.com/taylortom/cli/releases/tag/untagged-0459d5a002c3db419361) - 1970/01/01
-
-This will be the first release.
-
-Everything is new!
-
-## [1.0.0](https://github.com/taylortom/cli/releases/tag/untagged-0459d5a002c3db419361) - 1970/01/01
-
-This will be the first release.
-
-Everything is new!
-
-## [1.0.0](https://github.com/taylortom/cli/releases/tag/untagged-0459d5a002c3db419361) - 1970/01/01
-
-This will be the first release.
-
-Everything is new!
-
-## [1.0.0](https://github.com/taylortom/cli/releases/tag/untagged-0459d5a002c3db419361) - 1970/01/01
-
-This will be the first release.
-
-Everything is new!
-
 ## [0.10.4](https://github.com/adaptlearning/adapt_authoring/releases/tag/v0.10.5) - 2020-08-21
 
 Bugfix release.
